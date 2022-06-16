@@ -1,12 +1,39 @@
 {
     "produtos": [
         {
-            "id": "cd31e137-c78c-4fec-a868-d8780bb96b56",
+            "id": "1",
             "nome": "Console Microsoft Xbox Series S, 512GB, Branco",
             "descricao": "Xbox Series S, o menor e mais elegante de todos os tempos. Com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o Xbox Series S oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital.",
             "imagem": "https://images.kabum.com.br/produtos/fotos/128561/console-microsoft-xbox-series-s-500gb-branco-rrs-00006_1601067301_gg.jpg",
             "preco": "2.249,90",
             "ativo": true
+        },
+        {
+            "ativo": false,
+            "id": "1d7cc76a-1ede-42da-9368-475177a16746"
+        },
+        {
+            "ativo": false,
+            "id": "28fa6d51-4678-4155-b597-b5dc9792d6c4"
+        },
+        {
+            "ativo": false,
+            "id": "7a6bd104-e274-4b81-89da-c444599c28f5"
+        },
+        {
+            "ativo": false,
+            "id": "3a5f8580-f93f-4e1b-b233-c9a2c869b151"
+        },
+        {
+            "ativo": false,
+            "id": "486de5d9-260e-4667-951d-85b7bdd09a1a"
+        },
+        {
+            "nome": "pc games",
+            "imagem": "https://images.kabum.com.br/produtos/fotos/309501/pc-gamer-skul-3000-intel-quad-core-i3-10100f-rgb-amd-radeon-rx-550-8gb-ddr4-ssd-240gb-linux-preto-g4704-120630_1644605124_original.jpg",
+            "preco": "4000",
+            "ativo": true,
+            "id": "7fdcf244-29a0-4abb-ab0f-e9f0dbe912e2"
         }
     ]
 }
