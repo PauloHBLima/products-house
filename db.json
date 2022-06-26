@@ -3,10 +3,10 @@
         {
             "id": "1",
             "nome": "Console Microsoft Xbox Series S, 512GB, Branco",
-            "descricao": "Xbox Series S, o menor e mais elegante de todos os tempos. Com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o Xbox Series S oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital.",
             "imagem": "https://images.kabum.com.br/produtos/fotos/128561/console-microsoft-xbox-series-s-500gb-branco-rrs-00006_1601067301_gg.jpg",
-            "preco": "2.249,90",
-            "ativo": true
+            "preco": "101010",
+            "ativo": true,
+            "descricao": "Xbox Series S, o menor e mais elegante de todos os tempos. Com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o Xbox Series S oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital."
         },
         {
             "ativo": false,
@@ -34,6 +34,17 @@
             "preco": "4000",
             "ativo": true,
             "id": "7fdcf244-29a0-4abb-ab0f-e9f0dbe912e2"
-        }
-    ]
+        }],
+        
+        "usuarios": [
+            {
+                "id": "1",
+                "nome": "admin",
+                "email": "admin@mail.com",
+                "senha": "123456",
+                "logado": "false",
+                "tipoUsuario": "admin"
+            }
+        ]
 }
+
